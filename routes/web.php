@@ -15,6 +15,5 @@
 //     return view('welcome');
 // });
 
-// To start job command : php artisan queue:work
 
 Route::get('/', 'ScrapdataController@index');
